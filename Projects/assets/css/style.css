@@ -1,0 +1,110 @@
+.jumbotron{
+  width:500px;
+  margin-left:370px;
+  background-color:#444444;
+  margin-top:50px;
+}
+.design{
+   margin-top:100px;
+   line-height:50px; 
+}
+.list{
+  margin-left:40px;
+  color:white;
+  font-size: 18px; 
+}
+.align{margin-left:20px;}
+h2{
+  text-align:center;
+  padding-right:70px; 
+  color:white;
+}
+.textArea{
+  color:white;
+  margin-left:20px;
+  font-size: 20px;
+}
+#userName{
+  width:270px;
+  margin-left:20px;
+}
+#password{
+  width:270px;
+  margin-left:20px;
+}
+#address{
+  width:270px;
+  margin-left:20px;
+}
+#phoneNumber{
+  width:270px;
+  margin-left:20px;
+}
+#submitButton{
+  margin-left:20px;
+  margin-top: 20px; 
+}
+h1{
+  padding-right:70px;
+  margin-left:550px;
+  margin-bottom:30px;   
+}
+.cal{
+  font-size:18px;
+  color:#477529;
+  margin-left:200px;  
+}
+.block{line-height:40px;}
+.buttonBack{
+  margin-left:100px; 
+}
+.final{
+  margin-left:400px;
+  margin-top:50px;
+  font-size:25px;  
+}
+.test{
+  color: red;
+  margin-left: 107px;
+  font-size: 18px;
+}
+.psubmit{margin-left:30px; }
+.add{
+  margin-left:500px; 
+  margin-bottom:10px; 
+}
+.header{width:500px;}
+.color{
+   background-color:#bae0a1;
+   border:1px solid #bae0a1;
+}
+.records{
+  font-size:26px;
+  color:#477529;  
+}
+h3{color:#477529;}
+.dates{
+  color:#4b4f48;
+  font-size:13px; 
+}
+.comments{
+  margin-top:20px;
+}
+.show{
+  background-color:skyblue;
+  font-size:17px; 
+}
+.comment{
+  margin-left:500px;
+  margin-top:200px; 
+  border:1px solid red ;
+}
+#countRecord{
+  margin-left:500px;
+  color:red;
+}
+.status{
+  margin-top:50px;
+  margin-left:200px;
+  font-size:18px;   
+}
